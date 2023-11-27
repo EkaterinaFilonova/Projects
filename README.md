@@ -63,7 +63,7 @@
 
 
 > <a href="https://metabase.sky.pro/question/91772">Ссылка на открытый код</a>
-> <a href="https://metabase.sky.pro/question/91772">Ссылка на выводы</a>
+> <a href="https://github.com/EkaterinaFilonova/Projects/blob/0ae4e10153f70ad5c4108cfb39769614272fc868/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%E2%84%962.xlsx">Ссылка на выводы</a>
  
  <p>Выводы (итоги):<p>
 <ol>
